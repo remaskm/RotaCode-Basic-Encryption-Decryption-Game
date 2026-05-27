@@ -6,11 +6,6 @@ Built as **Project 2** of the DecodeLabs Cybersecurity Internship (Batch 2026).
 
 ---
 
-## Demo
-
-![RotaCode gameplay](assets/demo.gif)
-
----
 
 ## How to Run
 
@@ -106,9 +101,6 @@ Non-alphabetic characters (spaces, punctuation) pass through unchanged.
 ```
 rotacode/
 ├── cipher_game.py   # Main game — all logic lives here
-├── assets/
-│   └── demo.gif     # Gameplay preview
-├── .gitignore
 └── README.md
 ```
 
